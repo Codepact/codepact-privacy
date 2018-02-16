@@ -12,6 +12,8 @@
 
 While providing the Services, Provider collects Personal Information about Individuals. This document describes how the Provider collects, stores, uses and discloses Personal Information.
 
+Information on matters regulated specifically by the GDPR, such as the lawful bases for Providers' handling and Individuals' rights to withdraw consent to Provider's handling of Personal Information are set out at the end of this document.
+
 ## 2. Types of information collected
 
 Provider may collect the following types of Personal Information about Individuals:
@@ -119,7 +121,21 @@ In these cases, the handling of Personal Information may occur without Provider'
 
 Provider reserves the right to make changes to this document in the future, either to comply with changes in Australian privacy law, or to reflect changing business practices.  It is the responsibility of Individuals to regularly check this document for such changes.
 
+## 13. General Data Protection Regulation
+
+Provider's service is available in the EU, so Provider takes steps to comply with the GDPR.
+
+**Lawful bases for handling*
+
+The basis for colleting the information of users of the Service is
+
+**Withdrawing consent**
+
 ## Definitions
+
+### GDPR
+
+means the Regulation (EU) 2016/679 (General Data Protection Regulation)
 
 ### Organisation, Organisations
 means an organisation using the Services.
