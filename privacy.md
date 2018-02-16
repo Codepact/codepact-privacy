@@ -123,13 +123,16 @@ Provider reserves the right to make changes to this document in the future, eith
 
 ## 13. General Data Protection Regulation
 
-Provider's service is available in the EU, so Provider takes steps to comply with the GDPR.
+Provider's service is available in the EU, so Provider takes steps to comply with the GDPR. The information below covers certain matters that are relevant under the GDPR.
 
-**Lawful bases for handling*
+**Lawful bases for handling Personal Information**
 
-The basis for colleting the information of users of the Service is
+- Lawful bases for handling Personal Information of Users, including use of overseas cloud storage and Provider's mailing list:
+	- Users consent to the handling during the registration process for the Service; and
+	- Providers' handling is necessary in order to provide the Service in accordance with the Service [terms](https://github.com/Codepact/codepact-terms/blob/master/codepact-terms.md).
+- Lawful basis for handling Personal Information of counterparties to agreements created by users: including the details of counterparties to agreements created by users is necessary in order to protect users' vital intersts in having effective, binding contracts
 
-**Withdrawing consent**
+**Consent and withdrawing consent**
 
 ## Definitions
 
