@@ -12,7 +12,9 @@
 
 While providing the Services, Provider collects Personal Information about Individuals. This document describes how the Provider collects, stores, uses and discloses Personal Information.
 
-Information on matters regulated specifically by the GDPR, such as the lawful bases for Providers' handling and Individuals' rights to withdraw consent to Provider's handling of Personal Information are set out at the end of this document.
+Provider cannot reasonably provide the Service without handling Personal Information as contemplated by this document.
+
+Specific information relevant to Individuals in the European Union is set out at the end of this policy n on matters regulated specifically by the GDPR, such as the lawful bases for Providers' handling and Individuals' rights to withdraw consent to Provider's handling of Personal Information are set out at the end of this document.
 
 ## 2. Types of information collected
 
@@ -121,9 +123,9 @@ In these cases, the handling of Personal Information may occur without Provider'
 
 Provider reserves the right to make changes to this document in the future, either to comply with changes in Australian privacy law, or to reflect changing business practices.  It is the responsibility of Individuals to regularly check this document for such changes.
 
-## 13. General Data Protection Regulation
+## 13. European Union
 
-Provider's service is available in the EU, so Provider takes steps to comply with the GDPR. The information below covers certain matters that are relevant under the GDPR.
+Provider's service is available in the EU, so Provider takes steps to comply with the GDPR. The information below covers key matters under the GDPR.
 
 **Lawful bases for handling Personal Information**
 
@@ -137,9 +139,13 @@ Provider's service is available in the EU, so Provider takes steps to comply wit
 **Consent and withdrawing consent**
 
 - Individuals in the EU have a right to object, or withdraw their consent, to Provider's handling of Personal Information
-- To withdraw consent to Provider's handling of Personal Information, Individuals should send an email to info@codepact.com with subject line: 'Close account'
-- This will result in the Individual's account being closed and all information on it being deleted, as Provider cannot provide the Service without handling Personal Information as conemplated by this privacy policy.
+To withdraw consent to Provider's handling of Personal Information, Individuals should follow the procedure set out under the heading, **Close account** on their profile page
+- This will result in the Individual's account being closed and all information on it being deleted
 - Individuals can unsubscribe from Provider's mailing list at any time
+
+**Cookies**
+
+Provider's cookie policy is available via https://codepact.com/landed
 
 
 
