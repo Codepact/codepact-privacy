@@ -14,7 +14,7 @@ While providing the Services, Provider collects Personal Information about Indiv
 
 Provider cannot reasonably provide the Service without handling Personal Information as contemplated by this document.
 
-Specific information relevant to Individuals in the European Union is set out at the end of this policy n on matters regulated specifically by the GDPR, such as the lawful bases for Providers' handling and Individuals' rights to withdraw consent to Provider's handling of Personal Information are set out at the end of this document.
+Specific information relevant to Individuals in the European Union is set out at the end of this policy.
 
 ## 2. Types of information collected
 
