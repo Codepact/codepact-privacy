@@ -127,12 +127,22 @@ Provider's service is available in the EU, so Provider takes steps to comply wit
 
 **Lawful bases for handling Personal Information**
 
-- Lawful bases for handling Personal Information of Users, including use of overseas cloud storage and Provider's mailing list:
-	- Users consent to the handling during the registration process for the Service; and
-	- Providers' handling is necessary in order to provide the Service in accordance with the Service [terms](https://github.com/Codepact/codepact-terms/blob/master/codepact-terms.md).
-- Lawful basis for handling Personal Information of counterparties to agreements created by users: including the details of counterparties to agreements created by users is necessary in order to protect users' vital intersts in having effective, binding contracts
+| Type of information handling                 | Lawful basis | GDPR ref |
+|-----------------------------------------------|--------------
+| Collection, use and disclosure of users' information |  Necessary in order to provide the Service in accordance with the Service [terms](https://github.com/Codepact/codepact-terms/blob/master/codepact-terms.md) | Art 6(1)(b)
+| Storage in US cloud storage | User consent | Art 6(1)(a)
+| Mailing list | User consent | Art 6(1)(a)
+| Handling Personal Information of non-users whose details are included in agreements created by Users | Necessary in order to protect Users' vital interests in having effective contracts | Art 6(1)(d) |
 
 **Consent and withdrawing consent**
+
+- Individuals in the EU have a right to object, or withdraw their consent, to Provider's handling of Personal Information
+- To withdraw consent to Provider's handling of Personal Information, Individuals should send an email to info@codepact.com with subject line: 'Close account'
+- This will result in the Individual's account being closed and all information on it being deleted, as Provider cannot provide the Service without handling Personal Information as conemplated by this privacy policy.
+- Individuals can unsubscribe from Provider's mailing list at any time
+
+
+
 
 ## Definitions
 
@@ -147,4 +157,8 @@ means an organisation using the Services.
 means any information that is categorised as "personal information" under privacy law.
 
 ### Service, Services
-means Codepact, a web-based application for creating legal agreements.
+means https://codepact.com, a web-based application for creating legal agreements, and includes the landed pages at https://codepact.com/landed and https://www.producthunt.com/upcoming/codepact
+
+### User, Users
+
+means users with an account on the Service.
