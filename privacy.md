@@ -129,12 +129,11 @@ Provider's service is available in the EU, so Provider takes steps to comply wit
 
 **Lawful bases for handling Personal Information**
 
-| Type of information handling                 | Lawful basis | GDPR ref |
-|-----------------------------------------------|--------------
-| Collection, use and disclosure of users' information |  Necessary in order to provide the Service in accordance with the Service [terms](https://github.com/Codepact/codepact-terms/blob/master/codepact-terms.md) | Art 6(1)(b)
-| Storage in US cloud storage | User consent | Art 6(1)(a)
-| Mailing list | User consent | Art 6(1)(a)
-| Handling Personal Information of non-users whose details are included in agreements created by Users | Necessary in order to protect Users' vital interests in having effective contracts | Art 6(1)(d) |
+- Collection, use and disclosure of Users' information: necessary in order to provide the Service in accordance with the Service [terms](https://github.com/Codepact/codepact-terms/blob/master/codepact-terms.md) (see Art 6(1)(b) of GDPR)
+- Using US cloud storage: User consent (see Art 6(1)(a) GDPR)
+- Mailing list: User consent (see Art 6(1)(a)) GDPR)
+- Use of cloud storage in USA: User consent
+- Handling Personal Information of non-users whose details are included in agreements created by Users: necessary in order to protect Users' vital interests in having effective contracts (see Art 6(1)(d) GDPR)
 
 **Consent and withdrawing consent**
 
@@ -146,9 +145,6 @@ To withdraw consent to Provider's handling of Personal Information, Individuals 
 **Cookies**
 
 Provider's cookie policy is available via https://codepact.com/landed
-
-
-
 
 ## Definitions
 
