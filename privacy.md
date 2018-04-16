@@ -12,6 +12,10 @@
 
 While providing the Services, Provider collects Personal Information about Individuals. This document describes how the Provider collects, stores, uses and discloses Personal Information.
 
+Provider cannot reasonably provide the Service without handling Personal Information as contemplated by this document.
+
+Specific information relevant to Individuals in the European Union is set out at the end of this policy.
+
 ## 2. Types of information collected
 
 Provider may collect the following types of Personal Information about Individuals:
@@ -119,7 +123,34 @@ In these cases, the handling of Personal Information may occur without Provider'
 
 Provider reserves the right to make changes to this document in the future, either to comply with changes in Australian privacy law, or to reflect changing business practices.  It is the responsibility of Individuals to regularly check this document for such changes.
 
+## 13. European Union
+
+Provider's service is available in the EU, so Provider takes steps to comply with the GDPR. The information below covers key matters under the GDPR.
+
+**Lawful bases for handling Personal Information**
+
+- Collection, use and disclosure of Users' information: necessary in order to provide the Service in accordance with the Service [terms](https://github.com/Codepact/codepact-terms/blob/master/codepact-terms.md) (see Art 6(1)(b) of GDPR).
+- Using US cloud storage: User consent (see Art 6(1)(a) GDPR).
+- Mailing list: User consent (see Art 6(1)(a)) GDPR).
+- Use of cloud storage in USA: User consent.
+- Handling Personal Information of non-users whose details are included in agreements created by Users: necessary in order to protect Users' vital interests in having effective contracts (see Art 6(1)(d) GDPR).
+
+**Consent and withdrawing consent**
+
+- Individuals in the EU have a right to object, or withdraw their consent, to Provider's handling of Personal Information
+To withdraw consent to Provider's handling of Personal Information, Individuals should follow the procedure set out under the heading, **Close account** on their profile page
+- This will result in the Individual's account being closed and all information on it being deleted
+- Individuals can unsubscribe from Provider's mailing list at any time
+
+**Cookies**
+
+Provider's cookie policy is available via https://codepact.com/landed
+
 ## Definitions
+
+### GDPR
+
+means the Regulation (EU) 2016/679 (General Data Protection Regulation)
 
 ### Organisation, Organisations
 means an organisation using the Services.
@@ -128,4 +159,8 @@ means an organisation using the Services.
 means any information that is categorised as "personal information" under privacy law.
 
 ### Service, Services
-means Codepact, a web-based application for creating legal agreements.
+means https://codepact.com, a web-based application for creating legal agreements, and includes the landed pages at https://codepact.com/landed and https://www.producthunt.com/upcoming/codepact
+
+### User, Users
+
+means users with an account on the Service.
