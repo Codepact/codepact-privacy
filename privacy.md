@@ -136,10 +136,9 @@ Provider's service is available in the EU, so Provider takes steps to comply wit
 
 **Consent and withdrawing consent**
 
-- Individuals in the EU have a right to object, or withdraw their consent, to Provider's handling of Personal Information
-To withdraw consent to Provider's handling of Personal Information, Individuals should follow the procedure set out under the heading, **Close account** on their profile page
-- This will result in the Individual's account being closed and all information on it being deleted
-- Individuals can unsubscribe from Provider's mailing list at any time
+- Individuals in the EU have a right to object, or withdraw their consent, to Provider's handling of Personal Information.
+- To withdraw consent to Provider's handling of Personal Information, Individuals should follow the procedure set out under the heading, **Close account** on their profile page. This will result in the Individual's account being closed and all information on it being deleted.
+- Individuals can unsubscribe from Provider's mailing list at any time.
 
 **Cookies**
 
