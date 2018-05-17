@@ -129,10 +129,9 @@ Provider's service is available in the EU, so Provider takes steps to comply wit
 
 **Lawful bases for handling Personal Information**
 
-- Collection, use and disclosure of Users' information: necessary in order to provide the Service in accordance with the Service [terms](https://github.com/Codepact/codepact-terms/blob/master/codepact-terms.md) (see Art 6(1)(b) of GDPR).
+- Collection, use and disclosure of Users' information as described by this privacy policy: necessary in order to provide the Service in accordance with the Service [terms](https://github.com/Codepact/codepact-terms/blob/master/codepact-terms.md) (see Art 6(1)(b) of GDPR).
 - Using US cloud storage: User consent (see Art 6(1)(a) GDPR).
 - Mailing list: User consent (see Art 6(1)(a)) GDPR).
-- Use of cloud storage in USA: User consent.
 - Handling Personal Information of non-users whose details are included in agreements created by Users: necessary in order to protect Users' vital interests in having effective contracts (see Art 6(1)(d) GDPR).
 
 **Consent and withdrawing consent**
