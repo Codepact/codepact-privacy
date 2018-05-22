@@ -131,13 +131,12 @@ Provider's service is available in the European Union, so Provider takes steps t
 
 **Lawful bases for processing Personal Information of Individuals in the European Union**
 
-| Activity | Lawful basis
-|----------|-------------
-|Collection, use and disclosure of Users' information as described by this privacy policy |  Necessary in order to provide the Service in accordance with the Service [terms](https://github.com/Codepact/codepact-terms/blob/master/codepact-terms.md) (see Art 6(1)(b) of GDPR)
-
-- Mailing list: user consent (see Art 6(1)(a)) GDPR).
-- International disclosures / processing: user consent (see Art 6(1)(a)) GDPR).
-- Handling Personal Information of non-users whose details are included in agreements created by Users: necessary in order to protect Users' vital interests in having effective contracts (see Art 6(1)(d) GDPR).
+| Activity | Lawful basis | GDPR reference
+|----------|--------------|-------------
+|Collection, use and disclosure of Users' information as described by this privacy policy |  Necessary in order to provide the Service in accordance with the Service [terms](https://github.com/Codepact/codepact-terms/blob/master/codepact-terms.md) |Art 6(1)(b)
+| Mailing list | User consent | Art 6(1)(a)
+| International disclosures / processing | User consent | Art 6(1)(a)
+| Handling Personal Information of non-users whose details are included in agreements created by Users | Necessary in order to protect Users' vital interests in having effective contracts | Art 6(1)(d)
 
 **Consent and withdrawing consent**
 
