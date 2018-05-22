@@ -96,7 +96,7 @@ By registering for the Service, Individuals consent to the disclosure of their P
 
 Provider will make a good faith effort to ensure that international recipients deal with Personal Information in a way that is consistent with the Australian Privacy Principles, but:
 - Individuals will not have the same rights in relation to recipients outside Australia as they would with Australian recipients; and
-- Personal Information of Individuals in the European Union may not have same safeguards outside the European Union as it would within the European Union.
+- Personal Information of European Union Individuals may not have same safeguards outside the European Union as it would within the European Union.
 
 ## 9. Privacy contact
 
