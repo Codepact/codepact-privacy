@@ -94,7 +94,7 @@ Provider is an Australian company. Provider processes perosnal information in Au
 
 Provider will make a good faith effort to ensure that international recipients deal with Personal Information in a way that is consistent with the Australian Privacy Principles, but:
 - Individuals will not have the same rights in relation to recipients outside Australia as they would with Australian recipients; and
-- Personal Information of Individuals in the EU may not have same safeguards outside the EU as it would within the EU.
+- Personal Information of Individuals in the European Union may not have same safeguards outside the European Union as it would within the European Union.
 
 By registering for the Service, Individuals consent to the disclosure of their Personal Information to international recipients in accordance with this privacy policy.
 
