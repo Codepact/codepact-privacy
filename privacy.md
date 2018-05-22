@@ -12,7 +12,7 @@
 
 While providing the Services, Provider collects Personal Information about Individuals. This document describes how the Provider collects, stores, uses and discloses Personal Information.
 
-Provider cannot reasonably provide the Service without handling Personal Information as contemplated by this document.
+Provider cannot reasonably provide the Service without processing Personal Information as contemplated by this document.
 
 Specific information relevant to Individuals in the European Union is set out at the end of this policy.
 
@@ -85,16 +85,18 @@ Provider may disclose Personal Information to:
 - regulatory bodies, upon a lawful request for the information; and
 - courts of law, upon a lawful court order.
 
-## 8. Disclosing information outside Australia
+## 8. Disclosing information internationally
 
-Provider may disclose personal information to organisations outside of Australia such as:
+Provider is an Australian company. Provider processes perosnal information in Australia and in the United Kingdom, but may disclose personal information to organisations outside of these countries such as:
 
 -  cloud storage providers located in the United States; and
--  service providers in the United Kingdom and Germany.
+-  service providers in Germany.
 
-By using the Service, Individuals consent to the disclosure of their Personal Information to overseas recipients.
+Provider will make a good faith effort to ensure that international recipients deal with Personal Information in a way that is consistent with the Australian Privacy Principles, but:
+- Individuals will not have the same rights in relation to recipients outside Australia as they would with Australian recipients; and
+- Personal Information of Individuals in the EU may not have same safeguards outside the EU as it would within the EU.
 
-Provider will make a good faith effort to ensure that overseas recipients deal with Personal Information in a way that is consistent with the principles of the Privacy Act, but Individuals will not have the same rights in relation to overseas recipients who handle their information as they would with Australian recipients.
+By registering for the Service, Individuals consent to the disclosure of their Personal Information to international recipients in accordance with this privacy policy.
 
 ## 9. Privacy contact
 
@@ -117,7 +119,7 @@ The Service permits Individuals or Organisations to collect, store, process, or 
 - providing a tool or gateway for Organisations to collect, store, process or share information; and
 - allowing people to give credit card details to payment processors.
 
-In these cases, the handling of Personal Information may occur without Provider's direct knowledge or control.
+In these cases, the processing of Personal Information may occur without Provider's direct knowledge or control.
 
 ## 12. Changes to this policy
 
@@ -125,19 +127,19 @@ Provider reserves the right to make changes to this document in the future, eith
 
 ## 13. European Union
 
-Provider's service is available in the EU, so Provider takes steps to comply with the GDPR. The information below covers key matters under the GDPR.
+Provider's service is available in the European Union, so Provider takes steps to comply with the GDPR. The information below covers key matters under the GDPR.
 
-**Lawful bases for handling Personal Information**
+**Lawful bases for processing Personal Information of Individuals in the European Union**
 
 - Collection, use and disclosure of Users' information as described by this privacy policy: necessary in order to provide the Service in accordance with the Service [terms](https://github.com/Codepact/codepact-terms/blob/master/codepact-terms.md) (see Art 6(1)(b) of GDPR).
-- Using US cloud storage: User consent (see Art 6(1)(a) GDPR).
-- Mailing list: User consent (see Art 6(1)(a)) GDPR).
+- Mailing list: user consent (see Art 6(1)(a)) GDPR).
+- International disclosures / processing: user consent (see Art 6(1)(a)) GDPR).
 - Handling Personal Information of non-users whose details are included in agreements created by Users: necessary in order to protect Users' vital interests in having effective contracts (see Art 6(1)(d) GDPR).
 
 **Consent and withdrawing consent**
 
-- Individuals in the EU have a right to object, or withdraw their consent, to Provider's handling of Personal Information.
-- To withdraw consent to Provider's handling of Personal Information, Individuals should follow the procedure set out under the heading, **Close account** on their profile page. This will result in the Individual's account being closed and all information on it being deleted.
+- Individuals in the European Union have a right to object, or withdraw their consent, to Provider's processing of Personal Information.
+- To withdraw consent to Provider's processing of Personal Information to provide the Services, Individuals should follow the procedure set out under the heading, **Close account** on their profile page. This will result in the Individual's account being closed and all information on it being deleted.
 - Individuals can unsubscribe from Provider's mailing list at any time.
 
 **Cookies**
