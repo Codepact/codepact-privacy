@@ -1,4 +1,4 @@
- # Privacy Policy
+# Privacy Policy
 
 *Codepact SaaS Agreement - 16 April 2018*
 
