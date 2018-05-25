@@ -71,9 +71,10 @@ Provider deletes Personal Information when:
 Provider may collect, use, hold and disclose Personal Information in order to:
 
 - enable Individuals to use Provider's services;
-- perform analysis of the typical use of Provider's services;
+- perform analysis of the typical use of the Service;
+- ascertain the nature and needs of Users' businesses in order to improve the Service;
 - communicate with Individuals;
-- send marketing and promotional messages to Individuals;
+- send marketing and promotional messages to Individuals who have joined Provider's mailing list;
 - consider employment applications;
 - comply with the law;
 - enforce agreements with third parties; and
