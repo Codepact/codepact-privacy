@@ -1,4 +1,4 @@
-# Privacy Policy
+ # Privacy Policy
 
 *Codepact SaaS Agreement - 16 April 2018*
 
@@ -31,6 +31,11 @@ Provider may collect the following types of Personal Information about Individua
 - details of products or services that Provider has provided to Individuals;
 - records of, or notes on communications between Provider and Individuals; and
 - whatever personal information is included in content Individuals posts on the Service or on the website of Provider.
+
+Provider may collect the following additional types of Personal Information about Users:
+
+- information about Users found on Users' publicly available social media pages, such as LinkedIn; and
+- information about Users and Users' businesses posted on the websites of Users or Users' businesses.
 
 ## 3. How information is collected
 
@@ -165,4 +170,4 @@ means https://codepact.com, a web-based application for creating legal agreement
 
 ### User, Users
 
-means users with an account on the Service.
+means Individuals with an account on the Service.
