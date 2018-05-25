@@ -1,6 +1,6 @@
 # Privacy Policy
 
-*Codepact SaaS Agreement - 16 April 2018*
+*Codepact Privacy Policy - 29 May 2018*
 
 **Capitalised words and phrases are defined in the section of the document entitled "Definitions".**
 
