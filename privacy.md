@@ -1,6 +1,6 @@
 # Privacy Policy
 
-*Codepact SaaS Agreement - 16 April 2018*
+*Codepact Privacy Policy - 29 May 2018*
 
 **Capitalised words and phrases are defined in the section of the document entitled "Definitions".**
 
@@ -31,6 +31,11 @@ Provider may collect the following types of Personal Information about Individua
 - details of products or services that Provider has provided to Individuals;
 - records of, or notes on communications between Provider and Individuals; and
 - whatever personal information is included in content Individuals posts on the Service or on the website of Provider.
+
+Provider may collect the following additional types of Personal Information about Users:
+
+- information about Users found on Users' publicly available social media pages, such as LinkedIn; and
+- information about Users and Users' businesses posted on the websites of Users or Users' businesses.
 
 ## 3. How information is collected
 
@@ -66,9 +71,10 @@ Provider deletes Personal Information when:
 Provider may collect, use, hold and disclose Personal Information in order to:
 
 - enable Individuals to use Provider's services;
-- perform analysis of the typical use of Provider's services;
+- perform analysis of the typical use of the Service;
+- ascertain the nature and needs of Users' businesses in order to improve the Service;
 - communicate with Individuals;
-- send marketing and promotional messages to Individuals;
+- send marketing and promotional messages to Individuals who have joined Provider's mailing list;
 - consider employment applications;
 - comply with the law;
 - enforce agreements with third parties; and
@@ -165,4 +171,4 @@ means https://codepact.com, a web-based application for creating legal agreement
 
 ### User, Users
 
-means users with an account on the Service.
+means Individuals with an account on the Service.
